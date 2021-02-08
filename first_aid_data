@@ -1,0 +1,112 @@
+[
+  {
+    "detailDataBean": [
+      {
+        "id": "1",
+        "language": "chinese",
+        "pId": "1",
+        "value": "我生病了，医院怎么去"
+      },
+      {
+        "id": "2",
+        "language": "english",
+        "pId": "1",
+        "value": "I\u0027m sick. How can I get to the hospital"
+      },
+      {
+        "id": "3",
+        "language": "Japanese",
+        "pId": "1",
+        "value": "病気です。病院はどうやって行けばいいですか？"
+      },
+      {
+        "id": "4",
+        "language": "German",
+        "pId": "1",
+        "value": "Ich bin krank, wie komme ich ins Krankenhaus?"
+      }
+    ],
+    "id": "1",
+    "shortDataBean": [
+      {
+        "id": "1",
+        "language": "chinese",
+        "pId": "1",
+        "value": "生病"
+      },
+      {
+        "id": "2",
+        "language": "english",
+        "pId": "1",
+        "value": "fall ill"
+      },
+      {
+        "id": "3",
+        "language": "Japanese",
+        "pId": "1",
+        "value": "病気になる"
+      },
+      {
+        "id": "4",
+        "language": "German",
+        "pId": "1",
+        "value": "krank werden"
+      }
+    ]
+  },
+  {
+    "detailDataBean": [
+      {
+        "id": "1",
+        "language": "chinese",
+        "pId": "2",
+        "value": "你好漂亮，我能和你合照吗"
+      },
+      {
+        "id": "2",
+        "language": "english",
+        "pId": "2",
+        "value": "You are so beautiful. Can I take a picture with you"
+      },
+      {
+        "id": "3",
+        "language": "Japanese",
+        "pId": "2",
+        "value": "こんにちは、綺麗です。一緒に写真を撮ってもいいですか？"
+      },
+      {
+        "id": "4",
+        "language": "German",
+        "pId": "2",
+        "value": "Du bist so schön, kann ich ein Foto mit dir machen?"
+      }
+    ],
+    "id": "2",
+    "shortDataBean": [
+      {
+        "id": "1",
+        "language": "chinese",
+        "pId": "2",
+        "value": "漂亮"
+      },
+      {
+        "id": "2",
+        "language": "english",
+        "pId": "2",
+        "value": "beautiful"
+      },
+      {
+        "id": "3",
+        "language": "Japanese",
+        "pId": "2",
+        "value": "悪い"
+      },
+      {
+        "id": "4",
+        "language": "German",
+        "pId": "2",
+        "value": "Gut gemacht!"
+      }
+    ]
+  }
+]
